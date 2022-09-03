@@ -1,11 +1,3 @@
-# 90DaysOfDevOps
-
-<p align="center">
- <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
-</p>
-
-English Version | [中文版本](zh_cn/README.md) | [繁體中文版本](zh_tw/README.md)| [日本語版](ja/README.md) | [Wersja Polska](pl/README.md)
-
 This fork is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 12th September 2022 but the idea is that I take 90 days which just so happens to be September 12th to October 26th.
 
 The goal is to take 90 days, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge.
