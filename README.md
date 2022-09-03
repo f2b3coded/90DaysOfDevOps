@@ -1,4 +1,4 @@
-This fork is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 12th September 2022 but the idea is that I take 90 days which just so happens to be September 12th to October 26th.
+This fork is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 12th September 2022 but the idea is that I take 90 days which just so happens to be September 12th to December 12th.
 
 The goal is to take 90 days, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge.
 
